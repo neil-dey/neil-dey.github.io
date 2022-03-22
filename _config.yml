@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-name: Jonathan P Williams
+name: Neil Dey
 description: Jonathan's personal website.
-email: jwilli27@ncsu.edu
-url: "http://jonathanpw.github.io" 
-github_username: jonathanpw
+email: neild799@gmail.com
+url: "http://neil-dey.github.io" 
+github_username: neil-dey
 
 # Build settings
 markdown: kramdown
