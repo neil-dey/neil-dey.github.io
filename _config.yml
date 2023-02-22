@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 name: Neil Dey
-description: Jonathan's personal website.
+description: Neil Dey's personal website.
 email: neild799@gmail.com
 url: "http://neil-dey.github.io" 
 github_username: neil-dey
