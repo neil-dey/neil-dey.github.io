@@ -212,7 +212,7 @@ td {
 }
 .site .content .banner .photo > img
 {
-  /*border-radius: 50%;*/
+  border-radius: 50%;
 }
 
 .new {
